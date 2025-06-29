@@ -1,0 +1,151 @@
+Companhia Aérea,Cidade de Partida,Cidade de Chegada,Distância (km),Duração (h),Classe,Índice de Demanda,Preço da Passagem (R$)
+Airline C,São Paulo,Lisboa,4612.92,7.33,Primeira Classe,1.38,2905.36
+Airline D,Salvador,Paris,1610.93,2.97,Econômica,1.46,696.78
+Airline A,Rio de Janeiro,Paris,5020.31,7.09,Executiva,1.38,2267.02
+Airline D,Brasília,Nova York,2793.27,5.37,Primeira Classe,0.7,1430.19
+Airline A,Rio de Janeiro,Nova York,755.9,0.91,Econômica,0.91,290.49
+Airline D,Brasília,Nova York,3477.25,6.71,Primeira Classe,0.78,1615.74
+Airline C,Brasília,Londres,6044.73,10.51,Executiva,0.98,1783.14
+Airline A,Brasília,Buenos Aires,749.18,0.86,Econômica,0.55,184.04
+Airline A,Salvador,Londres,6478.31,11.06,Econômica Premium,0.62,892.36
+Airline B,Belo Horizonte,Londres,5227.72,10.24,Econômica,0.72,632.91
+Airline C,Belo Horizonte,Londres,8305.35,11.86,Econômica Premium,1.1,1527.2
+Airline A,Brasília,Paris,7720.42,11.32,Econômica,0.7,655.79
+Airline C,Rio de Janeiro,Londres,2032.14,2.3,Primeira Classe,0.54,672.79
+Airline D,Belo Horizonte,Londres,4830.25,6.75,Econômica,0.86,707.37
+Airline D,Belo Horizonte,Lisboa,9176.99,10.51,Econômica,0.67,898.58
+Airline B,São Paulo,Nova York,5362.21,7.69,Econômica,0.77,532.08
+Airline A,Salvador,Buenos Aires,6257.09,10.21,Econômica Premium,0.92,1316.62
+Airline A,Brasília,Lisboa,8907.2,15.63,Primeira Classe,1.35,4488.24
+Airline B,São Paulo,Nova York,3556.63,4.42,Primeira Classe,0.82,1415.32
+Airline B,Rio de Janeiro,Nova York,9016.38,17.73,Econômica,0.98,1278.83
+Airline A,Rio de Janeiro,Buenos Aires,7166.52,10.07,Econômica,0.98,1009.17
+Airline A,São Paulo,Londres,969.43,1.11,Econômica,0.85,307.28
+Airline C,Brasília,Buenos Aires,2779.07,5.23,Primeira Classe,1.43,2365.82
+Airline C,Belo Horizonte,Buenos Aires,7419.35,10.64,Econômica Premium,1.41,2189.81
+Airline B,Brasília,Buenos Aires,9505.93,12.73,Primeira Classe,1.37,5353.6
+Airline C,Brasília,Londres,6469.25,9.05,Econômica Premium,1.38,1385.05
+Airline A,Rio de Janeiro,Buenos Aires,2674.47,4.78,Econômica Premium,1.3,849.62
+Airline C,Salvador,Paris,1094.36,1.52,Econômica,1.12,440.64
+Airline D,Salvador,Nova York,3472.86,4.6,Executiva,0.95,1180.0
+Airline D,Salvador,Buenos Aires,7918.71,13.53,Econômica Premium,1.4,2092.25
+Airline D,Brasília,Londres,7978.53,9.98,Econômica,1.45,1793.78
+Airline D,Salvador,Paris,6381.23,10.65,Executiva,0.52,834.13
+Airline A,São Paulo,Nova York,4481.67,8.43,Executiva,1.01,1294.5
+Airline B,São Paulo,Nova York,5221.65,7.63,Executiva,1.08,2076.95
+Airline C,Belo Horizonte,Buenos Aires,8476.09,12.44,Primeira Classe,1.44,4988.54
+Airline A,Rio de Janeiro,Nova York,9173.83,11.08,Econômica,0.72,912.21
+Airline B,São Paulo,Nova York,7379.79,11.41,Econômica Premium,1.21,1909.64
+Airline B,Belo Horizonte,Nova York,7847.94,9.62,Executiva,0.63,1312.77
+Airline C,Belo Horizonte,Londres,2112.44,4.09,Executiva,1.03,848.41
+Airline C,Salvador,Nova York,3808.01,6.14,Primeira Classe,0.84,1403.73
+Airline C,Belo Horizonte,Londres,1748.22,2.44,Executiva,1.25,1021.9
+Airline A,Belo Horizonte,Lisboa,3166.06,5.67,Econômica,1.24,769.47
+Airline C,Rio de Janeiro,Paris,4054.16,4.51,Primeira Classe,1.11,2762.08
+Airline B,Belo Horizonte,Buenos Aires,4107.68,4.85,Econômica Premium,1.1,879.56
+Airline D,São Paulo,Lisboa,9793.74,18.38,Econômica Premium,0.7,1342.73
+Airline D,Salvador,Buenos Aires,9763.91,12.17,Econômica Premium,0.8,1377.71
+Airline C,Rio de Janeiro,Buenos Aires,6662.47,8.43,Primeira Classe,0.72,1854.85
+Airline A,Salvador,Londres,4489.53,6.38,Primeira Classe,0.87,2202.3
+Airline B,Rio de Janeiro,Buenos Aires,1533.48,2.46,Primeira Classe,0.87,978.69
+Airline C,Salvador,Nova York,1499.17,2.41,Econômica,1.39,629.0
+Airline B,Rio de Janeiro,Buenos Aires,6987.73,11.17,Econômica,0.54,582.92
+Airline B,São Paulo,Lisboa,6609.8,9.64,Econômica Premium,0.58,677.34
+Airline D,Belo Horizonte,Buenos Aires,3958.15,6.87,Primeira Classe,0.76,1839.64
+Airline D,Brasília,Paris,6163.23,9.55,Primeira Classe,0.92,2836.98
+Airline C,São Paulo,Nova York,5730.46,9.38,Primeira Classe,1.04,2541.01
+Airline D,Belo Horizonte,Paris,6637.73,11.36,Primeira Classe,1.27,3886.64
+Airline B,Belo Horizonte,Paris,6956.33,11.79,Econômica,1.07,1222.41
+Airline B,Rio de Janeiro,Buenos Aires,2564.2,3.02,Econômica,1.29,687.82
+Airline C,Belo Horizonte,Paris,6738.86,12.29,Econômica,0.77,616.54
+Airline A,Salvador,Nova York,4357.66,6.41,Executiva,1.16,1834.19
+Airline D,Belo Horizonte,Lisboa,7502.06,8.64,Primeira Classe,1.45,4212.53
+Airline C,Brasília,Paris,4234.45,6.0,Econômica Premium,0.7,658.32
+Airline B,Rio de Janeiro,Paris,574.98,1.01,Primeira Classe,1.48,1501.8
+Airline B,Rio de Janeiro,Buenos Aires,3163.61,5.36,Econômica Premium,0.75,584.19
+Airline B,Belo Horizonte,Londres,4819.83,6.47,Executiva,1.37,1716.41
+Airline A,São Paulo,Paris,1693.97,3.19,Econômica,1.38,625.52
+Airline A,Salvador,Paris,1576.2,2.45,Econômica Premium,1.32,726.55
+Airline D,Belo Horizonte,Londres,1926.79,2.93,Econômica,0.88,454.98
+Airline C,Rio de Janeiro,Lisboa,3769.87,7.04,Econômica,0.92,592.27
+Airline D,Salvador,Paris,3308.53,4.65,Econômica Premium,1.32,896.71
+Airline C,São Paulo,Paris,3681.3,6.19,Econômica Premium,1.19,872.68
+Airline D,Rio de Janeiro,Paris,5232.8,7.46,Executiva,0.53,837.6
+Airline C,Belo Horizonte,Londres,8550.38,10.93,Primeira Classe,1.44,5062.23
+Airline D,Rio de Janeiro,Londres,4229.12,5.95,Econômica,0.81,477.59
+Airline B,Salvador,Buenos Aires,4690.67,7.87,Executiva,0.69,911.85
+Airline C,Salvador,Nova York,5848.17,6.92,Econômica Premium,1.47,1717.3
+Airline D,Rio de Janeiro,Nova York,3033.15,3.73,Econômica,1.26,749.01
+Airline C,Rio de Janeiro,Nova York,8759.09,13.47,Primeira Classe,0.69,2032.11
+Airline A,Rio de Janeiro,Nova York,9433.25,13.81,Executiva,1.28,3444.0
+Airline C,Salvador,Paris,9675.42,13.94,Econômica Premium,1.44,2126.15
+Airline D,São Paulo,Lisboa,712.47,0.84,Primeira Classe,1.13,1334.35
+Airline B,Rio de Janeiro,Paris,6003.67,9.61,Econômica,0.6,517.29
+Airline C,Salvador,Lisboa,6359.95,11.12,Primeira Classe,1.43,4398.88
+Airline D,Belo Horizonte,Lisboa,7589.95,9.15,Econômica,1.04,1000.8
+Airline D,Belo Horizonte,Lisboa,8864.16,14.97,Primeira Classe,1.09,3713.07
+Airline C,Salvador,Lisboa,1690.6,2.0,Econômica Premium,0.53,332.84
+Airline A,Brasília,Lisboa,2685.06,3.05,Primeira Classe,0.55,932.92
+Airline D,Belo Horizonte,Buenos Aires,5247.84,9.33,Econômica,0.72,625.58
+Airline D,Belo Horizonte,Buenos Aires,895.06,1.72,Primeira Classe,1.14,1157.34
+Airline B,Brasília,Lisboa,7820.51,9.01,Econômica Premium,1.31,1895.57
+Airline D,Rio de Janeiro,Londres,5756.22,10.26,Primeira Classe,1.25,3647.47
+Airline A,São Paulo,Buenos Aires,1500.57,1.69,Econômica Premium,1.29,768.23
+Airline D,Belo Horizonte,Buenos Aires,1722.65,2.01,Econômica,0.66,328.24
+Airline A,Rio de Janeiro,Paris,6313.52,8.5,Econômica Premium,1.43,1965.41
+Airline C,Rio de Janeiro,Buenos Aires,2008.69,2.69,Primeira Classe,0.88,1101.8
+Airline B,São Paulo,Paris,9996.97,19.38,Executiva,0.71,2141.58
+Airline B,São Paulo,Londres,1933.82,3.04,Econômica,0.66,384.44
+Airline D,Rio de Janeiro,Paris,7697.59,10.72,Econômica Premium,0.93,1150.06
+Airline D,Belo Horizonte,Buenos Aires,8857.83,10.62,Executiva,1.23,2670.63
+Airline B,Salvador,Londres,1415.53,2.16,Econômica,0.55,217.19
+Airline A,Brasília,Paris,1890.96,2.6,Econômica,0.91,358.62
+Airline B,Belo Horizonte,Buenos Aires,1191.38,1.6,Econômica Premium,1.28,825.57
+Airline D,São Paulo,Nova York,2888.64,4.38,Executiva,0.73,732.73
+Airline C,Salvador,Nova York,7753.23,9.37,Executiva,0.92,2151.15
+Airline B,Salvador,Lisboa,6844.32,12.05,Econômica Premium,1.29,1469.66
+Airline C,Belo Horizonte,Lisboa,8496.08,14.53,Econômica Premium,1.24,1848.51
+Airline C,Salvador,Londres,8602.7,11.25,Primeira Classe,0.7,2242.03
+Airline A,Belo Horizonte,Paris,6897.48,13.19,Executiva,0.77,1353.29
+Airline B,Belo Horizonte,Buenos Aires,6832.94,13.27,Primeira Classe,0.89,2408.94
+Airline C,Brasília,Nova York,7420.99,13.78,Executiva,0.94,2182.12
+Airline C,Belo Horizonte,Paris,5155.92,6.72,Econômica,0.57,510.09
+Airline B,Rio de Janeiro,Londres,4888.21,8.62,Executiva,1.29,1995.62
+Airline D,Salvador,Nova York,4906.66,8.11,Econômica Premium,0.65,574.59
+Airline D,Salvador,Buenos Aires,842.94,1.09,Executiva,1.27,872.67
+Airline B,Belo Horizonte,Lisboa,1785.33,2.06,Primeira Classe,1.02,1432.37
+Airline C,Belo Horizonte,Londres,6869.59,7.67,Primeira Classe,0.8,2785.86
+Airline C,Rio de Janeiro,Lisboa,4410.68,7.69,Primeira Classe,0.59,1439.88
+Airline D,Salvador,Londres,5494.29,7.33,Primeira Classe,1.37,4128.37
+Airline B,Salvador,Londres,5204.66,8.82,Econômica Premium,1.35,1350.25
+Airline C,Brasília,Buenos Aires,3393.47,3.82,Primeira Classe,0.83,1339.74
+Airline A,Belo Horizonte,Londres,5439.19,7.7,Primeira Classe,1.43,3648.05
+Airline D,São Paulo,Paris,4155.13,7.12,Executiva,1.49,1781.21
+Airline B,Rio de Janeiro,Nova York,2296.33,3.56,Primeira Classe,1.15,1548.95
+Airline C,São Paulo,Buenos Aires,5546.57,10.94,Executiva,1.44,2067.19
+Airline D,Belo Horizonte,Buenos Aires,3059.24,6.0,Econômica Premium,1.3,859.66
+Airline A,Salvador,Paris,9644.35,11.69,Executiva,0.57,1212.82
+Airline D,São Paulo,Londres,4864.37,8.11,Executiva,1.11,2010.18
+Airline B,Belo Horizonte,Lisboa,1832.05,2.13,Econômica Premium,1.17,813.13
+Airline D,Belo Horizonte,Paris,9066.61,13.35,Econômica,0.96,983.92
+Airline C,Brasília,Nova York,9941.15,14.85,Primeira Classe,1.41,4813.94
+Airline B,Brasília,Londres,7355.75,11.22,Econômica,1.23,1440.2
+Airline D,São Paulo,Lisboa,5644.31,6.32,Executiva,1.38,1951.03
+Airline C,Rio de Janeiro,Nova York,3757.97,5.21,Primeira Classe,1.35,3033.23
+Airline D,São Paulo,Nova York,3166.45,3.84,Primeira Classe,0.51,764.87
+Airline C,Rio de Janeiro,Paris,9311.04,16.0,Econômica Premium,0.89,1646.14
+Airline C,Rio de Janeiro,Buenos Aires,770.8,1.0,Primeira Classe,0.89,1070.56
+Airline A,Brasília,Paris,8919.29,11.04,Primeira Classe,1.09,3345.22
+Airline B,Salvador,Londres,5150.97,6.88,Econômica Premium,1.17,1274.91
+Airline B,Rio de Janeiro,Buenos Aires,860.36,1.17,Primeira Classe,1.49,1737.1
+Airline C,Brasília,Paris,8956.43,13.41,Econômica Premium,1.09,1948.94
+Airline A,Salvador,Londres,863.62,0.97,Executiva,0.75,642.28
+Airline C,Brasília,Buenos Aires,8102.89,10.95,Primeira Classe,1.47,4420.84
+Airline C,Belo Horizonte,Buenos Aires,8250.9,9.44,Executiva,0.85,2061.33
+Airline C,Belo Horizonte,Paris,2919.09,3.73,Econômica,0.9,587.07
+Airline D,Belo Horizonte,Nova York,9488.44,18.4,Executiva,0.94,2683.39
+Airline A,São Paulo,Paris,2507.67,3.27,Econômica Premium,1.25,1054.88
+Airline D,São Paulo,Nova York,7337.08,9.54,Econômica Premium,0.93,1288.26
+Airline A,Rio de Janeiro,Paris,8917.99,12.4,Econômica,0.76,825.93
+Airline D,Belo Horizonte,Londres,9590.57,13.42,Econômica,0.66,923.25
+Airline C,Rio de Janeiro,Nova York,1600.64,2.76,Primeira Classe,1.5,1861.03
